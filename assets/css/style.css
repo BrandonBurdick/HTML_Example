@@ -1,0 +1,43 @@
+:root {
+    --primary-color:red;
+    --secondary-color:blue;
+    --tertiary-color:yellow;
+}
+
+.sans-serif {
+    font-family: cursive, Arial, Helvetica, sans-serif;
+}
+
+P {
+    background-color:blue;
+    color:white;
+    font-family: sans-serif;
+}
+
+h1.HelloWorld {
+    background-color:yellow;
+    color:white;
+}
+
+#Lorem {
+    background-color:crimson;
+    color:blue;
+}
+
+div a #duck {
+    opacity:75%;
+    width:25%;
+    height:25%;
+}
+
+html { 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+    background-image: url("../images/beautiful-view.avif");
+}
+
+h5, h6, ul, ol, table, form { 
+    background-color: white;
+    opacity:75%;
+}
